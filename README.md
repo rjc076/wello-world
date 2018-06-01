@@ -1,3 +1,4 @@
 # wello-world
 first git repository
-What is this file gonna change into? 
+What and where is this file gonna change into? 
+file name
